@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a git branch is quick and simple.
 git merge
 # dev need 2 days to finish,but have to fix a bug first.
+the bug is fixed!
